@@ -1,0 +1,6 @@
+name:
+vs_BuildTools.exe
+link:
+http://aka.ms/vs/17/release/vs_BuildTools.exe
+zipBaseName:
+VS2022BuildTools.
